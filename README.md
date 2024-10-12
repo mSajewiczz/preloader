@@ -1,0 +1,1 @@
+# That's my JavaScript component, named "preloader" for websites and web apps. 
